@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Marcel 👩‍💻</h1>
+<h1 align="center">Hey, I'm Lorenz 👩‍💻</h1>
 
 <hr>
 
@@ -41,12 +41,10 @@
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"><br>
     <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA Ultimate">&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white" alt="WebStorm">&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=SpaceDesktop&logoColor=white" alt="Space Desktop">&nbsp;&nbsp;
 </p>
 
 <hr>
 
 <p align="center"> 
     <img src="http://ForTheBadge.com/images/badges/built-with-love.svg"><br>
-    <img src="https://api.visitorbadge.io/api/visitors?path=VIPMarcel&label=Visitors&countColor=%23263759&style=flat-square&labelStyle=upper">
 </p>
