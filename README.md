@@ -1,5 +1,7 @@
 <h1 align="center">Hey, I'm Lorenz 👩‍💻</h1>
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/786298938915422219?idleMessage=EzCord%20>%20Mikocord)](https://astroid.cc) ****
+
 <hr>
 
 <div align="center">
