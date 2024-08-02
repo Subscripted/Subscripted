@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Lorenz 👩‍💻</h1>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/809536993972584449?idleMessage=EzCord%20>%20Mikocord)](https://astroid.cc) ****
+[![Discord Presence](https://lanyard.cnrad.dev/api/809536993972584449?idleMessage=EzCord%20>%20Mikocord)](https://astroid.cc)
 
 <hr>
 
