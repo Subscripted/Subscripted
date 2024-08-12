@@ -6,7 +6,7 @@
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=subscripted&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&show_owner=true">&nbsp;&nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subscripted&theme=orange-green-blue">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subscripted&theme=onedark">
 </div>
 
 <hr>
