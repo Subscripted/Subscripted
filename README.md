@@ -1,51 +1,60 @@
-<h1 align="center">Hey, I'm Lorenz 👩‍💻</h1>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/809536993972584449?idleMessage=EzCord%20>%20Mikocord)](https://discord.com/users/FaJ9BFun7u4b8oqlls9ElcHgT1dj7Tmn0hp7VvUb9FHntzfifCxLeTSaK1VG3K7_E6futyo)
-
-<hr>
-
-<div align="center">
-    <img src="https://githubreadmestats.vercel.app/api?username=subscripted&show_icons=true&theme=onedark&count_private=true&include_all_commits=true&show_owner=true" alt="GitHub Stats">&nbsp;&nbsp;
-    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=subscripted&theme=dark&background=000000)](https://git.io/streak-stats)
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subscripted&theme=onedark" alt="Top Languages">
-</div>
-
-<hr>
-
-<h4 align="center">🔭 Languages, Frameworks and Databases...</h4>
+<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"><br>
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB">&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/kakbar"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+</p>
+<p align="center">
+<a href="https://www.buymeacoffee.com/zed0" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+</p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=kakbar&style=flat-square&color=blue" alt=""></p>
+
+<h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+
+<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
+
+### :woman_technologist: &nbsp;About Me :
+
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+
+- 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- 🌱 Exploring Technical Content Writing.
+- ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kakbar)
+
+---
+
+### 🛠 &nbsp;Languages and Tools :
+
+<p>
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </p>
 
-<hr>
+---
 
-<h4 align="center">🌱 Operating Systems ...</h4>
-<p align="center">
-    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Debian-d70a53?style=for-the-badge&logo=debian&logoColor=white" alt="Debian">&nbsp;&nbsp;
-</p>
+### 🔥 &nbsp; My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=itsZed0&theme=dark&background=000000)](https://git.io/streak-stats)
 
-<hr>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsZed0&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<h4 align="center">🛠️ Tools and Platforms ...</h4>
-<p align="center">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black" alt="Notepad++">&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"><br>
-    <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA">&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white" alt="WebStorm">&nbsp;&nbsp;
-</p>
+---
 
-<hr>
-
-<p align="center">
-    <img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="Built with Love"><br>
-</p>
+### ✍️ Blog Posts : 
+- [How to Create REST APIs with Java and Spring Boot](https://www.twilio.com/blog/create-rest-apis-java-spring-boot)
+- [How to Implement Memoization in React to Improve Performance](https://www.sitepoint.com/implement-memoization-in-react-to-improve-performance/)
+- [How to Create an Impressive GitHub Profile README](https://www.sitepoint.com/github-profile-readme/)<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
