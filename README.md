@@ -6,13 +6,9 @@
 
 <div align="center">
     <img src="https://githubreadmestats.vercel.app/apiusername=subscripted&show_icons=true&theme=onedark&count_private=true&include_all_commits=true&show_owner=true">&nbsp;&nbsp;
-      
+      [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subscripted&theme=onedark">
-    
-</div>
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+    https://github-readme-streak-stats.herokuapp.com/?user=your-github-username
 </div>
 
 <hr>
