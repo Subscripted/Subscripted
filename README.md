@@ -31,8 +31,8 @@ I am a young Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 ---
 
 ### 🔥 &nbsp; My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Subscripted&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Subscripted&theme=humoris)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Subscripted&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Subscripted&layout=compact&theme=humoris)](https://github.com/anuraghazra/github-readme-stats)
 
 
