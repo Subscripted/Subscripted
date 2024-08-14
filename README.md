@@ -5,14 +5,16 @@
 <hr>
 
 <div align="center">
-![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
-    
-    <img 
-        src="https://githubreadmestats.vercel.app/apiusername=subscripted&show_icons=true&theme=onedark&count_private=true&include_all_commits=true&show_owner=true">&nbsp;&nbsp;
+    <img src="https://githubreadmestats.vercel.app/apiusername=subscripted&show_icons=true&theme=onedark&count_private=true&include_all_commits=true&show_owner=true">&nbsp;&nbsp;
       
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subscripted&theme=onedark">
     
 </div>
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 <hr>
 <h4 align="center">🔭  Languages, Frameworks and Databases...</h4>
 <p align="center">
