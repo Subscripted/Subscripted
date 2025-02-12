@@ -106,9 +106,8 @@
 
 <p align="center">
   <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Subscripted&icon=1&color=5"/>
+    <img src="https://visitcount.itsvg.in/api?id=Subscripted&icon=1&color=5)](https://visitcount.itsvg.in"/>
   </a>
 </p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
