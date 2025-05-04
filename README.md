@@ -2,6 +2,10 @@
 
 ---
 
+## 🔨 Current Project
+
+I am currently working on my own **RESTful API in Java**, which uses **token-based authentication** for secure user access. The project follows modern best practices for security and scalability.
+
 ## 🚀 Languages
 <p align="center">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
