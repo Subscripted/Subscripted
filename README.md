@@ -32,6 +32,7 @@ I am currently working on my own **RESTful API in Java**, which uses **token-bas
 ## 🎨 Template Engines
 <p align="center">
   <img src="https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Smarty&logoColor=white"/>
 </p>
 
 ---
