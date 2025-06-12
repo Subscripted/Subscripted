@@ -4,7 +4,7 @@
 
 ## 🔨 Current Project
 
-I am currently working on my own **RESTful API in Java**, which uses **token-based authentication** for secure user access. The project follows modern best practices for security and scalability.
+I’m currently working on my own ticket system (Task Manager & Time Attendance) that allows you to manage your internal structure by assigning tasks to the responsible person and testers. 
 
 ## 🚀 Languages
 <p align="center">
