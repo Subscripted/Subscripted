@@ -27,6 +27,7 @@ I’m currently working on my Portfolio written in TypeScript & React and Tailwi
   <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka"/>
   <img src="https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS Badge" />
 </p>
 
 ---
@@ -35,7 +36,6 @@ I’m currently working on my Portfolio written in TypeScript & React and Tailwi
 <p align="center">
   <img src="https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white"/>
   <img src="https://img.shields.io/badge/smarty-%23f29111.svg?style=for-the-badge&logo=smarty&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS Badge" />
 </p>
 
 ---
