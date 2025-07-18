@@ -4,7 +4,7 @@
 
 ## 🔨 Current Project
 
-I’m currently working on my own ticket system (Task Manager & Time Attendance) that allows you to manage your internal structure by assigning tasks to the responsible person and testers. 
+I’m currently working on my Portfolio written in TypeScript & React and TailwindCSS as CSS Framework. 
 
 ## 🚀 Languages
 <p align="center">
