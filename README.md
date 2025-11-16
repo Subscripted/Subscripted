@@ -4,7 +4,7 @@
 
 ## 🔨 Current Project
 
-I’m currently working on my Portfolio written in TypeScript & React and TailwindCSS as CSS Framework. 
+I’m currently working on my Project named NCB (NoCodeBackend).  
 
 ## 🚀 Languages
 <p align="center">
