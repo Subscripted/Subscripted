@@ -4,7 +4,7 @@
 
 ## 🔨 Current Project
 
-I’m currently working on my Project named NCB (NoCodeBackend).  
+I’m currently working on my Project named NCB (NoCodeBackend). I'm also learning Go at the moment.
 
 ## 🚀 Languages
 <p align="center">
