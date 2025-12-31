@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Subscripted</h1>
+<h1 align="center">👋 Hi, I'm Lorenz (Subscripted)</h1>
 <h3 align="center">18 y/o FIAE · Backend-focused Developer</h3>
 
 <p align="center">
