@@ -22,6 +22,15 @@
 
 ---
 
+## 💻 OS & Platforms
+
+<p align="center">
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
+  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
+</p>
+
+---
+
 ## 🧠 Backend Core Stack
 
 <p align="center">
