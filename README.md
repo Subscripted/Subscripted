@@ -17,7 +17,7 @@
 - 🎓 **18 years old – FIAE (Germany)**
 - 🧠 Strong focus on **Backend Development**
 - ⚙️ Passion for **APIs, Databases, Distributed Systems**
-- 🛠️ Currently building **NCB – NoCodeBackend**
+- 🛠️ Currently studying AI/ML Engineering
 - 📚 Deepening my knowledge in **Go** and **Java backend architectures**
 
 ---
