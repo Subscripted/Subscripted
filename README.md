@@ -1,33 +1,95 @@
-<h1 align="center">👋 Hi, I'm Lorenz (Subscripted)</h1>
-<h3 align="center">18 y/o FIAE · Backend-focused Developer</h3>
+<!-- Header -->
+<div align="center">
 
-<p align="center">
-  <b>Apprentice IT Specialist for Application Development (FIAE)</b><br>
-  Focused on clean, scalable <b>backend systems</b> and <b>APIs</b>
-</p>
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   ██╗      ██████╗ ██████╗ ███████╗███╗   ██╗███████╗       ║
+║   ██║     ██╔═══██╗██╔══██╗██╔════╝████╗  ██║╚══███╔╝       ║
+║   ██║     ██║   ██║██████╔╝█████╗  ██╔██╗ ██║  ███╔╝        ║
+║   ██║     ██║   ██║██╔══██╗██╔══╝  ██║╚██╗██║ ███╔╝         ║
+║   ███████╗╚██████╔╝██║  ██║███████╗██║ ╚████║███████╗       ║
+║   ╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝╚══════╝       ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Subscripted&style=for-the-badge&color=blue" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00ADD8&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+FIAE+Apprentice;Building+scalable+systems+from+scratch;Currently+studying+AI+Engineering;Go+%7C+Java+%7C+PHP+%7C+Distributed+Systems" alt="Typing SVG" />
+
+<br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Subscripted&style=for-the-badge&color=00ADD8&label=PROFILE+VIEWS)](https://github.com/Subscripted)
+[![GitHub followers](https://img.shields.io/github/followers/Subscripted?style=for-the-badge&color=00ADD8&labelColor=0d1117&label=FOLLOWERS)](https://github.com/Subscripted)
+
+</div>
 
 ---
 
-## 🚀 About Me
+<!-- About -->
+<img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=Subscripted&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ADD8&icon_color=00ADD8&text_color=c9d1d9&ring_color=00ADD8" />
 
-- 🎓 **18 years old – FIAE (Germany)**
-- 🧠 Strong focus on **Backend Development**
-- ⚙️ Passion for **APIs, Databases, Distributed Systems**
-- 🛠️ Currently studying AI/ML Engineering
-- 📚 Deepening my knowledge in **Go** and **Java backend architectures**
+### `> whoami`
+
+```yaml
+name:       Lorenz (Subscripted)
+age:        18
+role:       FIAE Apprentice
+focus:      Backend · APIs · Distributed Systems
+currently:  Studying AI/ML Engineering (self-taught)
+deepening:  Go · Java Backend Architectures
+motto:      "Backend first. Clean code. Scalable systems."
+```
+
+<br clear="right"/>
 
 ---
 
-## 💻 OS & Platforms
+<!-- GitHub Stats Row -->
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
-  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Subscripted&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ADD8&icon_color=00ADD8&text_color=c9d1d9" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subscripted&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ADD8&text_color=c9d1d9&langs_count=6" />
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Subscripted&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00ADD8&fire=00ADD8&currStreakLabel=00ADD8)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+<!-- AI Section -->
+## 🤖 AI Engineering
+
+> Currently learning AI/ML Engineering — from math fundamentals to building models from scratch.
+
+**What I'm studying:**
+
+![Neural Networks](https://img.shields.io/badge/Neural_Networks-Fundamentals-00ADD8?style=for-the-badge&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformer_Architecture-Studying-00ADD8?style=for-the-badge&logoColor=white)
+![Go ML](https://img.shields.io/badge/ML_in_Go-Building-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+**AI Tools I work with daily:**
+
+<p>
+  <img src="https://img.shields.io/badge/Claude-Anthropic-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude_Code-Agentic_Coding-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 </p>
+
+**Learning roadmap:**
+
+```
+[✓] Math Foundations      →  Linear Algebra · Calculus · Probability
+[✓] Neural Net Theory     →  Forward Pass · Backprop · Gradient Descent
+[ ] Autograd from scratch →  Building micrograd in Go
+[ ] Transformer in Go     →  Attention · Embeddings · Tokenizer
+[ ] First LLM training    →  nanoGPT-style on own hardware
+[ ] Fine-Tuning           →  LoRA / QLoRA on M4 Pro
+```
 
 ---
 
@@ -64,7 +126,7 @@
 
 ---
 
-## 🌐 Web, DevOps & Infrastructure
+## 🌐 DevOps & Infrastructure
 
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white"/>
@@ -96,7 +158,21 @@
 
 ---
 
+<!-- Activity Graph -->
+<div align="center">
 
-<p align="center">
-  <i>“Backend first. Clean code. Scalable systems.”</i>
-</p>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Subscripted&theme=github-compact&bg_color=0d1117&color=00ADD8&line=00ADD8&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+╔─────────────────────────────────────────────╗
+│  "Backend first. Clean code. Scalable systems." │
+╚─────────────────────────────────────────────╝
+```
+
+</div>
