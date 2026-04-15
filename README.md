@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 About Me
+<h2 align="center">🚀 About Me</h2>
 
 - 🎓 **18 years old – FIAE (Germany)**
 - 🧠 Strong focus on **Backend Development**
@@ -20,7 +20,7 @@
 
 ---
 
-## 💻 OS & Platforms
+<h2 align="center">💻 OS & Platforms</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
@@ -29,7 +29,7 @@
 
 ---
 
-## 🧠 Backend Core Stack
+<h2 align="center">🧠 Backend Core Stack</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
@@ -39,7 +39,7 @@
 
 ---
 
-## ⚙️ Frameworks, Messaging & Runtime
+<h2 align="center">⚙️ Frameworks, Messaging & Runtime</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
@@ -50,7 +50,7 @@
 
 ---
 
-## 🗄️ Databases & Caching
+<h2 align="center">🗄️ Databases & Caching</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -62,7 +62,7 @@
 
 ---
 
-## 🌐 Web, DevOps & Infrastructure
+<h2 align="center">🌐 Web, DevOps & Infrastructure</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white"/>
@@ -72,7 +72,7 @@
 
 ---
 
-## 🧩 Frontend (Supporting Skills)
+<h2 align="center">🧩 Frontend (Supporting Skills)</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -82,7 +82,7 @@
 
 ---
 
-## 🔧 Tooling & Version Control
+<h2 align="center">🔧 Tooling & Version Control</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
@@ -94,7 +94,7 @@
 
 ---
 
-## 🤖 AI Tools
+<h2 align="center">🤖 AI Tools</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
