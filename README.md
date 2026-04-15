@@ -1,12 +1,9 @@
-
 <h1 align="center">👋 Hi, I'm Lorenz (Subscripted)</h1>
 <h3 align="center">18 y/o FIAE · Backend-focused Developer</h3>
-
 <p align="center">
   <b>Apprentice IT Specialist for Application Development (FIAE)</b><br>
   Focused on clean, scalable <b>backend systems</b> and <b>APIs</b>
 </p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Subscripted&style=for-the-badge&color=blue" />
 </p>
@@ -97,7 +94,14 @@
 
 ---
 
+## 🤖 AI Tools
 
 <p align="center">
-  <i>“Backend first. Clean code. Scalable systems.”</i>
+  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
+</p>
+
+---
+
+<p align="center">
+  <i>"Backend first. Clean code. Scalable systems."</i>
 </p>
