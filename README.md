@@ -12,7 +12,7 @@
 
 <h2 align="center">🚀 About Me</h2>
 
-- 🎓 **18 years old – FIAE (Germany)**
+- 🎓 **19 years old – FIAE (Germany)**
 - 🧠 Strong focus on **Backend Development**
 - ⚙️ Passion for **APIs, Databases, Distributed Systems**
 - 🛠️ Currently studying AI/ML Engineering
