@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Lorenz (Subscripted)</h1>
-<h3 align="center">18 y/o FIAE · Backend-focused Developer</h3>
+<h3 align="center">19 y/o FIAE · Backend-focused Developer</h3>
 <p align="center">
   <b>Apprentice IT Specialist for Application Development (FIAE)</b><br>
   Focused on clean, scalable <b>backend systems</b> and <b>APIs</b>
